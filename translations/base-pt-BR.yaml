@@ -197,13 +197,13 @@ dialogs:
         descShortKey: ... or enter the <strong>short key</strong> of a shape (Which you
             can generate <link>here</link>)
     renameSavegame:
-        title: Rename Savegame
-        desc: You can rename your savegame here.
+        title: Renomear save game
+        desc: Você pode renomear o seu save game aqui.
     entityWarning:
-        title: Performance Warning
-        desc: You have placed a lot of buildings, this is just a friendly reminder that
-            the game can not handle an endless count of buildings - So try to
-            keep your factories compact!
+        title: Aviso de desempenho
+        desc: Você colocou muitas construções, isso é só uma lembraça amigavel
+            o jogo não conssegue rodar com infinitas construções - Então tente deixar
+            suas fabricas mais compactas!
 ingame:
     keybindingsOverlay:
         moveMap: Mover
@@ -343,37 +343,37 @@ ingame:
         n_miners: <amount> Miners
         limited_items: Limited to <max_throughput>
     watermark:
-        title: Demo version
-        desc: Click here to see the Steam version advantages!
-        get_on_steam: Get on steam
+        title: Versão demo
+        desc: Clique aqui para jogar a versão inteira!
+        get_on_steam: Pegue na steam!
     standaloneAdvantages:
-        title: Get the full version!
-        no_thanks: No, thanks!
+        title: Pegue a versão completa na steam
+        no_thanks: Não, obrigado!
         points:
             levels:
-                title: 12 New Levels
-                desc: For a total of 26 levels!
+                title: 12 Novos níveis
+                desc: No total de 26 niveis!
             buildings:
-                title: 18 New Buildings
-                desc: Fully automate your factory!
+                title: 18 Novas construções
+                desc: Totalmente automática fabricas!
             savegames:
                 title: ∞ Savegames
-                desc: As many as your heart desires!
+                desc: O quanto que o seu coração quer!
             upgrades:
-                title: 20 Upgrade Tiers
-                desc: This demo version has only 5!
+                title: 20 níveis de atualização
+                desc: Essa versão demo só tem 5!
             markers:
-                title: ∞ Markers
-                desc: Never get lost in your factory!
+                title: ∞ Marcador
+                desc: Nunca fique perdidk nas suas fabricas!
             wires:
-                title: Wires
-                desc: An entirely new dimension!
-            darkmode:
-                title: Dark Mode
-                desc: Stop hurting your eyes!
+                title: Fio de energia
+                desc: Uma dimensão inteiramente nova!
+            darkmode
+                title: Modo eacuro
+                desc: Para de doer seus olhos!
             support:
-                title: Support me
-                desc: I develop it in my spare time!
+                title: Me suporte!
+                desc: Eu desenvolvo no meu tempo livre!
 shopUpgrades:
     belt:
         name: Esteiras, Distribuidores e Túneis
@@ -403,9 +403,9 @@ buildings:
             name: Fio de Energia
             description: Permite transportar energia.
         second:
-            name: Wire
-            description: Transfers signals, which can be items, colors or booleans (1 / 0).
-                Different colored wires do not connect.
+            name: Fio de Energia
+            description: Trasfere sinais, que pode ser itens, cores ou booleanos (1 / 0).
+                Different Cabos coloridos não se conecta.
     miner:
         default:
             name: Extrator
